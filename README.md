@@ -1,4 +1,4 @@
-# C-or-CPP
+# CPP
 # OOP Concepts in C++ – Car Simulation Project
 
 ![C++](https://img.shields.io/badge/Language-C++-blue.svg)
