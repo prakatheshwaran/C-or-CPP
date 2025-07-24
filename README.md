@@ -59,14 +59,14 @@ It uses classes like `Vehicle`, `Car`, `SportsCar`, and a utility class `Printer
 ---
 
 ## Sample Output
-Honda City engine started.
-Honda City accelerated to 40 km/h.
-Model: Honda City, Color: Red, Speed: 40 km/h
-Honda City has stopped.
-Honda City engine stopped.
-Maruti Swift engine started.
-Boost mode ON!
-Maruti Swift accelerated to 120 km/h.
-Model: Maruti Swift, Color: Blue, Speed: 120 km/h
-Maruti Swift has stopped.
-Maruti Swift engine stopped.
+- Honda City engine started.
+- Honda City accelerated to 40 km/h.
+- Model: Honda City, Color: Red, Speed: 40 km/h
+- Honda City has stopped.
+- Honda City engine stopped.
+- Maruti Swift engine started.
+- Boost mode ON!
+- Maruti Swift accelerated to 120 km/h.
+- Model: Maruti Swift, Color: Blue, Speed: 120 km/h
+- Maruti Swift has stopped.
+- Maruti Swift engine stopped.
